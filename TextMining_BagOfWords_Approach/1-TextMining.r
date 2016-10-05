@@ -19,3 +19,15 @@ term_count <- freq_terms(new_text, 10)
 
 # Plot term_count
 plot (term_count)
+
+-----------
+
+INPUT --
+new_text 
+"DataCamp is the first online learning platform that focuses on building the best learning experience specifically for Data Science. 
+We have offices in Boston and Belgium and to date, we trained over 250,000 (aspiring) data scientists in over 150 countries. These 
+data science enthusiasts completed more than 9 million exercises. You can take free beginner courses, or subscribe for $25/month to
+get access to all premium courses."
+
+OUTPUT --
+[Plot](https://github.com/jabhij/Text_Mining-BagOfWords/issues/1)
