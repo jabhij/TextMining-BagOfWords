@@ -16,4 +16,4 @@ A list of simple steps, that usually took place in Text Mining.
 - Bag of Words    
 (Heap of Words)
 
-`In this repo ww'll explore snippets related to _Bag of words_ approach`
+`In this repo ww'll explore snippets related to Bag of words approach`
