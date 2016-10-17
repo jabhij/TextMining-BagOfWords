@@ -10,4 +10,3 @@ Instructions --
 - Create a wordcloud() using word_freqs$term as the words, and word_freqs$num as the frequencies. Add the parameters max.words = 100 and
 colors = "red".
 """
-
